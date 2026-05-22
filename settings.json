@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "bakalikasama.aternos.me",
-    "port": 45306,
+    "port": "45306",
     "version": "",
     "try-creative": false
   },
